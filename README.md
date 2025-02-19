@@ -8,6 +8,12 @@ Then run npm install.
 
 The Vite is created in the src/ folder.
 
+## Run this application
+
+On command prompt run npm install
+
+Then run npm run start. The web application opens for user portfolio.
+
 ## User Story
 
 AS AN employer looking for candidates with experience building single-page applications

@@ -12,7 +12,9 @@ The Vite is created in the src/ folder.
 
 On command prompt run npm install
 
-Then run npm run start. The web application opens for user portfolio.
+Second step run npm run build.
+
+Third and last step is to run npm run start. The web application opens for the user portfolio.
 
 ## User Story
 

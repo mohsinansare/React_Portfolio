@@ -76,4 +76,4 @@ This is my portfolio created with React.js. It contains an About page, Portfolio
 ![webpage screenshot](./src/assets/images/Screenshot_Portfolio.jpg)
 
 ## Application Link
-https://mohsinansare.github.io/react_portfolio/
+https://github.com/mohsinansare/React_Portfolio

@@ -77,3 +77,6 @@ This is my portfolio created with React.js. It contains an About page, Portfolio
 
 ## Application Link
 https://github.com/mohsinansare/React_Portfolio
+
+## Email address
+mohsinansare@gmail.com

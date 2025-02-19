@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.21cf556c.css",
+    "main.js": "/react-portfolio/static/js/main.65eb9232.js",
+    "static/js/422.2f0d1644.chunk.js": "/react-portfolio/static/js/422.2f0d1644.chunk.js",
+    "static/media/flash-beats-image.gif": "/react-portfolio/static/media/flash-beats-image.dcd02a7353abef6cb851.gif",
+    "static/media/Mood_Changer.gif": "/react-portfolio/static/media/Mood_Changer.08c7b5c63727c662e3ba.gif",
+    "static/media/living-real-image.png": "/react-portfolio/static/media/living-real-image.97826efd83613a4add50.png",
+    "static/media/Mohsin_pic.jpg": "/react-portfolio/static/media/Mohsin_pic.caaf36c34366e88ae760.jpg",
+    "static/media/webpage-screenshot.png": "/react-portfolio/static/media/webpage-screenshot.31eb4b6c2b2c094f266f.png",
+    "static/media/Mohsin-Ansari.pdf": "/react-portfolio/static/media/Mohsin-Ansari.180274e9cf798e90b037.pdf",
+    "static/media/weather-dashboard-image.png": "/react-portfolio/static/media/weather-dashboard-image.23797370ef5517d07799.png",
+    "static/media/budget-tracker-image.png": "/react-portfolio/static/media/budget-tracker-image.58cb45d09439671728e0.png",
+    "static/media/auto-tracker-image.png": "/react-portfolio/static/media/auto-tracker-image.b43f2f3cab833f6be953.png",
+    "static/media/password-generator-image.png": "/react-portfolio/static/media/password-generator-image.989cc2dfb9156017c12d.png",
+    "static/media/note-taker-image.png": "/react-portfolio/static/media/note-taker-image.704b6d82c169a0e5e3fa.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.21cf556c.css.map": "/react-portfolio/static/css/main.21cf556c.css.map",
+    "main.65eb9232.js.map": "/react-portfolio/static/js/main.65eb9232.js.map",
+    "422.2f0d1644.chunk.js.map": "/react-portfolio/static/js/422.2f0d1644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cf556c.css",
+    "static/js/main.65eb9232.js"
+  ]
+}
